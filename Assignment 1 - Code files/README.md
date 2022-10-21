@@ -160,5 +160,5 @@ Bot: You’re welcome.
 
 **ANNEX**           Architecture Diagram 
 
-![](Aspose.Words.7501bc28-78b9-4599-a7cd-420b7f13a550.001.jpeg)
-7/7 
+![Aspose Words 7501bc28-78b9-4599-a7cd-420b7f13a550 001](https://user-images.githubusercontent.com/54638746/197305231-e19d37d4-da59-4038-be5a-d826ab6b1818.jpeg)
+
